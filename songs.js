@@ -12,7 +12,7 @@ export default[
         name: "Mad Mad World"
     },
     {
-        src: "./src/src/Smack That - Akon.mp3",
+        src: "./src/Smack That - Akon.mp3",
         name: "Smack That - Akon"
     }
 ]
